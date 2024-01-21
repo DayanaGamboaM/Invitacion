@@ -24,7 +24,7 @@ const Invitacion = () => {
 
   return (
     <div style={{backgroundColor:'#BCCBEC', textAlign: 'center', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', height: '100vh' }}>
-      <h1>¿Quieres salir conmigo:3 ?</h1>
+      <h1>¿Quiere salir a comer?</h1>
       <div style={{ display: 'flex', justifyContent: 'center' }}>
         <button
           type="button"
