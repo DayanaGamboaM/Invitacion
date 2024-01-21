@@ -12,7 +12,7 @@ const Invitacion = () => {
   });
 
   const handleMouseEnter = () => {
-    const newLeft = Math.random() * (window.innerWidth - 100);
+    const newLeft = Math.random() * (window.innerWidth - 150);
     const newTop = Math.random() * (window.innerHeight - 50);
     setNoButtonStyle({
       ...noButtonStyle,
